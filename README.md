@@ -6,7 +6,7 @@ This is my solution to the Frontend Mentor challenge "Chat app CSS illustration"
 
 ## Live Site
 You can view the live project here:  
-[Live Demo]()
+[Live Demo](https://chat-app-css-illustration-g97m.vercel.app/)
 
 ## About the Project
 I built a chat app interface for mobile using only HTML and CSS.  
