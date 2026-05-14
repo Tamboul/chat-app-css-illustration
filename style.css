@@ -46,7 +46,7 @@ body {
   border-radius: 0 0 250px 250px;
   z-index: -1;
 }
-.bg-grey{
+.bg-gray{
   position: absolute;
   bottom: 0;
   right: -220px;
