@@ -265,6 +265,9 @@ body {
   .text-content p {
     margin-top: 16px;
   }
+   .text-content h1{
+    white-space: nowrap;
+  }
   .bg-purple {
     left: -240px;
     width: 100%;
