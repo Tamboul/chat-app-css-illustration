@@ -261,9 +261,14 @@ body {
   }
 
   .bg-purple {
-    left: -200px;
-    width: 400px;
-    height: 600px;
+   left: -30px;
+    width: 53%;
+    height: 52%;
+  }
+   .bg-gray{
+    width: 50%;
+    height: 60%;
+    right: 0px;
   }
 }
 
