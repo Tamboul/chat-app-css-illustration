@@ -256,14 +256,14 @@ body {
 @media (max-width: 768px) {
   .content {
     flex-direction: column;
-    gap: 150px;
+    gap: 90px;
     text-align: center;
   }
 
   .bg-purple {
     left: -200px;
     width: 400px;
-    height: 800px;
+    height: 600px;
   }
 }
 
