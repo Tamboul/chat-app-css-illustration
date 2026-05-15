@@ -256,7 +256,7 @@ body {
 @media (max-width: 768px) {
   .content {
     flex-direction: column;
-    gap: 60px;
+    gap: 150px;
     text-align: center;
   }
 
