@@ -259,11 +259,17 @@ body {
     gap: 90px;
     text-align: center;
   }
+  .text-content {
+    padding: 0 20px;
+  }
+  .text-content p {
+    margin-top: 20px;
+  }
 
   .bg-purple {
-   left: -30px;
-    width: 53%;
-    height: 52%;
+    left: -240px;
+    width: 100%;
+    height: 53%;
   }
    .bg-gray{
     width: 50%;
