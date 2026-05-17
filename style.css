@@ -218,7 +218,7 @@ body {
   flex: 1;
   border: none;
   outline: none;
-  box-shadow: 0 0 0 2px hsl(271, 36%, 24%);
+  box-shadow: 0 0 0 1px white;
   padding: 8px 15px;
   font-family: "Rubik", sans-serif;
   font-size: 12px;
