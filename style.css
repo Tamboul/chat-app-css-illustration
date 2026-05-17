@@ -129,6 +129,7 @@ body {
 .menu {
   font-size: 18px;
   cursor: pointer;
+  background-color: var(--gradient);
 }
 
 .phone-body {
