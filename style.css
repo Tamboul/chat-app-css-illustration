@@ -130,7 +130,7 @@ body {
   font-size: 18px;
   cursor: pointer;
   background-color: var(--gradient);
-  border: non;
+  border: none;
 }
 
 .phone-body {
